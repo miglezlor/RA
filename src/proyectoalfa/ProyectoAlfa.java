@@ -21,7 +21,10 @@ public class ProyectoAlfa {
         Scanner teclado =new Scanner(System.in);
         String hola = teclado.nextLine();
         System.out.println(hola);
-        // TODO code application logic here
+        // TODO code application logic here 
+        for (int x=0;x<5;x++){
+            System.out.println("Me aburro");
+        }
     }
     
 }
