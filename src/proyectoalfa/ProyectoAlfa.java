@@ -17,7 +17,7 @@ public class ProyectoAlfa {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola, te copio: ");
+        System.out.println("Hola, te copio:");
         Scanner teclado =new Scanner(System.in);
         String hola = teclado.nextLine();
         System.out.println(hola);
